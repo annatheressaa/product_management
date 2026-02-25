@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+Receipt_Order_*.txt
+.vscode/
