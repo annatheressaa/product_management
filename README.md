@@ -19,4 +19,4 @@ How to Run
 1. Import the provided SQL file into your phpMyAdmin.
 2. Ensure XAMPP MySQL is running.
 3. Install dependencies: `pip install customtkinter mysql-connector-python`
-4. Run `python main.py`. humanize ir no bold texts and emojie pleace
+4. Run `python main.py`.
