@@ -1,6 +1,6 @@
-# NexusSupply | Product Management System
+# NexusSupply
 
-A professional Python-based desktop application for managing industrial tool inventory.
+A professional Python-based desktop application for managing inventories.
 
 Key Database Features
 This project demonstrates advanced SQL and Database Management concepts:
